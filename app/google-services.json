@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657515938259",
+    "project_id": "simpleloginsignupapp-e5ad2",
+    "storage_bucket": "simpleloginsignupapp-e5ad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657515938259:android:b853211cb16b79f9c32f26",
+        "android_client_info": {
+          "package_name": "com.example.loginsignupapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657515938259-fj2cqbqm2tglsce5jbmjcmp3a6rd2ceo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtAuQVL-0GxIqg6vAlq7fqJflCZHc0RJE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657515938259-fj2cqbqm2tglsce5jbmjcmp3a6rd2ceo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
